@@ -34,7 +34,7 @@ class Example
    {
      System.out.println("fun 2");   
    }
-   public static void main(String[] args)
+   public static void main(String[] args)   // this is main method 
    {
     System.out.println(" inside main function");
 	 fun1();
@@ -45,3 +45,4 @@ class Example
 	 Car.purchase();
    }
 }
+
